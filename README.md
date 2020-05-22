@@ -4,6 +4,6 @@ This repository hosts a 10K vocabulary with word embeddings obtained after train
 
 The embeddings can be visualized here:
 
-https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/fgh95/36f7469555dc17af5a9098bceacef547/raw/5f478742b34f27f45709cf8aa54c9b12a4e6131e/pkpdai.json
+https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/fgh95/36f7469555dc17af5a9098bceacef547/raw/5f478742b34f27f45709cf8aa54c9b12a4e6131e/pkpdai.json 
 
 The original vocabulary has a size of 854,342 tokens, and their embeddings are available upon request. 
